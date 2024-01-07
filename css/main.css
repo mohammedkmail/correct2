@@ -1,0 +1,53 @@
+*{font-family: 'Salsa', cursive;
+}
+p{
+    color: rgba(0, 0, 0, 0.74);
+    font-size: 17px;
+}
+label{
+    
+}
+.inline{display: inline;
+}
+form{
+    
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.247);
+    background-color: white;
+    width: 50%;
+    margin: 60px auto;
+    padding: 40px;
+}
+
+.block{
+    display: block;
+}
+
+.gendar{
+    font-size: 15px;
+    border-style: solid;
+    width: fit-content;
+    padding: 10px;
+    border-width:1px;
+}
+
+.submit{
+    background-color:rgb(4, 187, 4);
+    width: 40%;
+    margin: auto;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+.test{
+    margin-bottom: 12px;
+    margin-top: 13px;
+}
+.s{
+
+    width: 46%;
+    margin: 13px 10px;
+    height: 28px;
+}}
